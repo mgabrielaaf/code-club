@@ -1,0 +1,21 @@
+@media (min-width: 450px) {
+  #search {
+    width: 430px;
+  }
+  
+  #card {
+    width: 400px;
+    height: 400px;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 1750px){
+  #search {
+    width: 685px;
+  }
+  
+  #card {
+    width: 700px;
+    height: 260px;
+  }
+}
