@@ -6,7 +6,6 @@ Projeto desenvolvido com base no Desafio 01 do repositório [desafios-frontend](
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -29,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://code-club-tau.vercel.app/)
 
 ## 🔖 Layout
 
